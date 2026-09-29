@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/pulsar-event-producer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/pulsar-event-producer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/pulsar-event-producer",
+    "origin"
+  ]
+}
